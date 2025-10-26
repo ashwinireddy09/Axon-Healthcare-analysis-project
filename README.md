@@ -58,17 +58,17 @@ This analysis helps healthcare administrators and stakeholders make data-driven 
 
 ## Key findings from the analysis:
 
-The average patient age reveals the main demographic group served by the hospital.
+1. The average patient age reveals the main demographic group served by the hospital.
 
-The top diagnosed conditions help prioritize healthcare resources and preventive programs.
+2. The top diagnosed conditions help prioritize healthcare resources and preventive programs.
 
-A high follow-up rate may indicate chronic conditions or treatment inefficiencies.
+3. A high follow-up rate may indicate chronic conditions or treatment inefficiencies.
 
-Monitoring average treatment cost supports better budget allocation and cost management.
+4. Monitoring average treatment cost supports better budget allocation and cost management.
 
-Doctor workload analysis ensures fair distribution of patients among doctors.
+5. Doctor workload analysis ensures fair distribution of patients among doctors.
 
-The percentage of abnormal lab results highlights potential areas of medical concern.
+6. The percentage of abnormal lab results highlights potential areas of medical concern.
 
 
 #Final Conclusion
