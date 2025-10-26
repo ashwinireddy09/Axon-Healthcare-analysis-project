@@ -45,7 +45,7 @@ This analysis helps healthcare administrators and stakeholders make data-driven 
 - Insight Generation: Interpreted results to improve patient care, efficiency, and resource management.
 
 
-# Dashboard
+## Dashboard
 - <a href="https://github.com/ashwinireddy09/Axon-Healthcare-analysis-project/blob/main/Screenshot%202025-10-20%20214708.png">Dataset</a>
 
 - <a href="https://github.com/ashwinireddy09/Axon-Healthcare-analysis-project/blob/main/WhatsApp%20Image%202025-10-11%20at%2020.38.33_e2fb1b81.jpg">Dataset</a>
