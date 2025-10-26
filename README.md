@@ -54,7 +54,7 @@ This analysis helps healthcare administrators and stakeholders make data-driven 
 
 
 
-#Insights
+# Insights
 
 ## Key findings from the analysis:
 
@@ -71,7 +71,7 @@ This analysis helps healthcare administrators and stakeholders make data-driven 
 6. The percentage of abnormal lab results highlights potential areas of medical concern.
 
 
-#Final Conclusion
+# Final Conclusion
 
 The Axon Healthcare Analytics Project provides a comprehensive view of hospital performance, patient care, and resource utilization.
 By transforming raw healthcare data into meaningful KPIs and dashboards, the project supports:
