@@ -46,11 +46,11 @@ This analysis helps healthcare administrators and stakeholders make data-driven 
 
 
 ## Dashboard
-- <a href="https://github.com/ashwinireddy09/Axon-Healthcare-analysis-project/blob/main/Screenshot%202025-10-20%20214708.png">Dataset</a>
+- <a href="![WhatsApp Image 2025-10-13 at 18 08 12_e793e6fe](https://github.com/user-attachments/assets/d5ccf01a-926f-4762-b711-29485c65c227)">Power Bi</a>
 
-- <a href="https://github.com/ashwinireddy09/Axon-Healthcare-analysis-project/blob/main/WhatsApp%20Image%202025-10-11%20at%2020.38.33_e2fb1b81.jpg">Dataset</a>
+- <a href="![WhatsApp Image 2025-10-11 at 20 38 33_e2fb1b81](https://github.com/user-attachments/assets/f24cab8f-5597-457d-b087-3b7d33782415)">Tableau</a>
 
-- <a href="https://github.com/ashwinireddy09/Axon-Healthcare-analysis-project/blob/main/WhatsApp%20Image%202025-10-13%20at%2018.08.12_e793e6fe.jpg">Dataset</a>
+- <a href="<img width="1920" height="1080" alt="Screenshot 2025-10-20 214708" src="https://github.com/user-attachments/assets/2e39b098-d4b9-47f0-8a31-27799b586823" />">Excel</a>
 
 
 
