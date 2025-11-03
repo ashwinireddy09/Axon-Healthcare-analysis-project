@@ -46,11 +46,12 @@ This analysis helps healthcare administrators and stakeholders make data-driven 
 
 
 ## Dashboard
-- <a href="![WhatsApp Image 2025-10-13 at 18 08 12_e793e6fe](https://github.com/user-attachments/assets/d5ccf01a-926f-4762-b711-29485c65c227)">Power Bi</a>
+![WhatsApp Image 2025-10-11 at 20 38 33_e2fb1b81](https://github.com/user-attachments/assets/63a141c5-5a38-4f98-a4a0-7265b4f62ed5)
 
-- <a href="![WhatsApp Image 2025-10-11 at 20 38 33_e2fb1b81](https://github.com/user-attachments/assets/f24cab8f-5597-457d-b087-3b7d33782415)">Tableau</a>
+![WhatsApp Image 2025-10-13 at 18 08 12_e793e6fe](https://github.com/user-attachments/assets/0143ba6d-c2d9-47b4-8cd3-504dea1c264a)
 
-- <a href="<img width="1920" height="1080" alt="Screenshot 2025-10-20 214708" src="https://github.com/user-attachments/assets/2e39b098-d4b9-47f0-8a31-27799b586823" />">Excel</a>
+<img width="1920" height="1080" alt="Screenshot 2025-10-20 214708" src="https://github.com/user-attachments/assets/9f13110e-68e6-49a8-9b62-dc2605f4a78d" />
+
 
 
 
